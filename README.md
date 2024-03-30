@@ -1,4 +1,6 @@
 
+![Terraform - S3 Bucket](https://github.com/Lopeswaprojetos/aws-s3-terraform/assets/161225187/c79a49d6-4d62-432b-aa07-65a8613cbd50)
+
 ## Estrutura do Projeto AWS S3 Terraform ##
 
 Este repositório contém um exemplo simples de como usar o Terraform para provisionar um bucket no Amazon S3.
